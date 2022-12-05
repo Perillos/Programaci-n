@@ -1,4 +1,4 @@
-public class Alumno {
+public class Alumno2 {
     private int edad;
     public static int num_alumnos = 0;
     public String nombre;
@@ -9,5 +9,6 @@ public class Alumno {
         num_alumnos++;
     }
 
+    // objetos de clases inmutables
 
 }
